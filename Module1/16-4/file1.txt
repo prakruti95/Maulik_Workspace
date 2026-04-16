@@ -26,4 +26,75 @@ ex: road ways
 method overloading
 method overriding
 
+Product & Project Based Application
+
+-> A software application that is developed by a company with its own budget. The
+   requirements are driven by market surveys. The developed product is then sold to different customers
+   with licenses.
+
+
+-> A software application that is developed by a company with the budget from a customer.
+   In fact, the customer gives order to developsome software that helps him in his business. Here, the
+   requirements come from the customer
+
+---------------------------------------------------------------------------
+What is Testing?
+
+-> Testing is a process used to identify correctness,completeness and quality of 
+developed computer software
+
+------------------------------------------------------------------------------
+SDLC -> Software development Lifecycle
+
+1)requirement gathering :
+-> you have to collect requirements from client
+-> Types of Requirement
+   1)functional requirement
+   2)non-functional requirement
+-> written format,diagram,table
+
+
+
+2)analysis :
+-> what
+-> how
+
+
+
+3)designing :
+-> According to requirement designer will design this
+
+4)implementation(coding)
+-> programmer will develop this
+
+5)testing :
+-> Product Quality
+for ex:
+Regression Testing 
+Internal Testing 
+Unit Testing
+Application Testing 
+Stress Testing
+
+
+6)maintenance : 
+ -> corrective maintenance : correct
+ -> adaptive maintenance : when you develop it on 2nd platform
+ -> perfective maintenance : when you want to make it perfect
+
+SDLC Models:
+1)waterfall model
+2)iterative model
+3)spiral model
+4)agile model
+
+
+Another Model is V-Model
+
+
+
+
+
+
+
 
